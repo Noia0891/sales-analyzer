@@ -37,3 +37,6 @@ python sales.py
 みお
 ゆな
 ```
+## 更新履歴
+
+- GitHub連携完了
